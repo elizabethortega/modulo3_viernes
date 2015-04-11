@@ -1,0 +1,6 @@
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppNotasFor1.1\AppNotasFor1.1\bin\Debug\AppNotasFor1.1.exe.config
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppNotasFor1.1\AppNotasFor1.1\obj\Debug\AppNotasFor1.1.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppNotasFor1.1\AppNotasFor1.1\bin\Debug\AppNotasFor1.1.exe
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppNotasFor1.1\AppNotasFor1.1\bin\Debug\AppNotasFor1.1.pdb
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppNotasFor1.1\AppNotasFor1.1\obj\Debug\AppNotasFor1.1.exe
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppNotasFor1.1\AppNotasFor1.1\obj\Debug\AppNotasFor1.1.pdb

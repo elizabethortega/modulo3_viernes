@@ -1,0 +1,6 @@
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppNumerosEntrerosFor2\AppNumerosEntrerosFor2\bin\Debug\AppNumerosEntrerosFor2.exe.config
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppNumerosEntrerosFor2\AppNumerosEntrerosFor2\bin\Debug\AppNumerosEntrerosFor2.exe
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppNumerosEntrerosFor2\AppNumerosEntrerosFor2\bin\Debug\AppNumerosEntrerosFor2.pdb
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppNumerosEntrerosFor2\AppNumerosEntrerosFor2\obj\Debug\AppNumerosEntrerosFor2.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppNumerosEntrerosFor2\AppNumerosEntrerosFor2\obj\Debug\AppNumerosEntrerosFor2.exe
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppNumerosEntrerosFor2\AppNumerosEntrerosFor2\obj\Debug\AppNumerosEntrerosFor2.pdb

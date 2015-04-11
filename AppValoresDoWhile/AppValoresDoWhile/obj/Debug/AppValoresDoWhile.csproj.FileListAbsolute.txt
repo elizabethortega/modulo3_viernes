@@ -1,0 +1,6 @@
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppValoresDoWhile\AppValoresDoWhile\bin\Debug\AppValoresDoWhile.exe.config
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppValoresDoWhile\AppValoresDoWhile\bin\Debug\AppValoresDoWhile.exe
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppValoresDoWhile\AppValoresDoWhile\bin\Debug\AppValoresDoWhile.pdb
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppValoresDoWhile\AppValoresDoWhile\obj\Debug\AppValoresDoWhile.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppValoresDoWhile\AppValoresDoWhile\obj\Debug\AppValoresDoWhile.exe
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppValoresDoWhile\AppValoresDoWhile\obj\Debug\AppValoresDoWhile.pdb
